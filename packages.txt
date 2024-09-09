@@ -1,0 +1,5 @@
+ffmpeg
+gifsicle
+build-essential
+gdal-bin
+libgdal-dev
